@@ -1,6 +1,4 @@
-# challenge1-code-refactor
-
-# Description
+# Challenge1-code-refactor
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
